@@ -28,7 +28,7 @@ var lastCompliment = ""
 //Begin with a compliment; select topic random out of a certain list
 val Start: State = state(Interaction){
     init{
-        readFileVar("variablesR.txt") //only needs to be run once
+        readFileVar("variables.txt") //only needs to be run once
         furhat.gesture(Gestures.Oh(duration = 2.0))
         furhat.say {
             random {
