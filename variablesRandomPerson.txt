@@ -1,0 +1,44 @@
+5oclock shadow, yes, 0.49
+age, 45, 0.6
+arched eyebrows, no, 0.93
+attractive, yes, 0.07
+bags under eyes, yes, 0.07
+bald, no, 0.59
+bangs, no, 1
+beard, yes, 0.18
+big lips, no, 0.86
+big nose, no, 0.05
+black hair, no, 0.3
+blond hair, no, 1
+blurry, no, 0.53
+brown hair, yes, 0.39
+bushy eyebrows, yes, 0.13
+chubby, no, 0.31
+double chin, no, 0.22
+expression, smile, 1
+gender, male, 1
+glasses, no, 1
+goatee, no, 0.36
+gray hair, no, 0.74
+heavy makeup, no, 0.97
+high cheekbones, yes, 0.33
+mouth open, yes, 0.97
+mustache, no, 0.26
+narrow eyes, no, 0.31
+oval face, yes, 0.42
+pale skin, no, 0.74
+pitch, -9.91, 1
+pointy nose, no, 0.6
+race, white, 1
+receding hairline, no, 0.38
+rosy cheeks, no, 0.98
+sideburns, no, 0.34
+straight hair, yes, 0.56
+wavy hair, no, 0.81
+wearing earrings, no, 1
+wearing hat, no, 1
+wearing lipstick, no, 1
+wearing necklace, no, 1
+wearing necktie, yes, 0.49
+yaw, -0.04, 1
+young, yes, 0.27
